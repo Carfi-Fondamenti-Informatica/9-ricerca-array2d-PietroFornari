@@ -14,5 +14,5 @@ int main(){
             if (a!=-1) {
                 cout << a;
             } else {cout << "non presente" << endl;}
-  return 0;
+  return 0 ;
 }
